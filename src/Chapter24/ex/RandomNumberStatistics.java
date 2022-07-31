@@ -1,6 +1,4 @@
-package Chapter32.ex;
-
-import Chapter23.ex.RandomNumberMaker;
+package Chapter24.ex;
 
 import java.util.Hashtable;
 import java.util.Random;
